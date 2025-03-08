@@ -28,16 +28,12 @@
 ---
 
 ### 📈 Estadísticas de GitHub  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MatiasJF&show_icons=true&theme=dark)  
-
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasJF&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub followers](https://img.shields.io/github/followers/MatiasJF?style=social)
-![GitHub stars](https://img.shields.io/github/stars/MatiasJF?style=social)
 
 ---
 
 ### 🌎 Contacto  
 📧 [Email](mailto:matias.jackson.f@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/matias_jackson_fascioli/)  
-💻 [Mi Web](https://tuweb.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/matias_jackson_fascioli/)    
