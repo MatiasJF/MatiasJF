@@ -7,6 +7,13 @@
 
 ---
 
+### 🧠 Portfolio
+
+🔗 [**jackson-strong.es**](https://jackson-strong.es)  
+➡️ Portfolio profesional con proyectos de inteligencia artificial, desarrollo web y automatización.
+
+---
+
 ### 🌍 Proyectos Destacados  
 
 🔹 [**Sotogrande Consultores**](http://sotograndeconsultores.com)  
