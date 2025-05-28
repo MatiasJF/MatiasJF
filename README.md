@@ -32,20 +32,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
-## 🚀 **GitHub Stats**  
-
-### 📊 **Lenguajes más usados**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasJF&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-### 🔍 **Estadísticas generales**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatiasJF&show_icons=true&theme=dark&count_private=true)  
-
-### 👥 **Seguidores**  
-![GitHub followers](https://img.shields.io/github/followers/MatiasJF?style=social)  
-
-### 📈 **Contribuciones recientes**  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MatiasJF&theme=dark)  
-
 ### 🌎 Contacto  
 📧 [Email](mailto:matias.jackson.f@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/matias_jackson_fascioli/)    
